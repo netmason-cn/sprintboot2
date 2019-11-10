@@ -11,3 +11,5 @@ Git has a mutable index called stage.
 
 dev branch   and 
 
+branch mange polish
+
