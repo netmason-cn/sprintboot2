@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 dev branch
 
 branch feature1 and f&m (merge)
+
+after stage    333
