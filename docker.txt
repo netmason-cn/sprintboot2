@@ -13,4 +13,11 @@ dev branch
 
 branch feature1 and f&m (merge)
 
+
+2019/11/11 testing git stash to stash
+
+sss
+
 after stage    333
+
+after stash and merge
